@@ -1,2 +1,0 @@
-Adicionar nessa pasta o ambiente de desenvolvimento
-do transmissor stm32f103c8t6
