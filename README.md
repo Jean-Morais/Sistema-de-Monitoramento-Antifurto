@@ -11,7 +11,7 @@
 
 O sistema realiza o monitoramento de entradas e saídas de ambientes, salas, blocos, dentre outros. E, detecta se está acontecendo alguma movimentação indesejada de bens patrimoniais da instituição e realiza o devido alerta aos usuários do sistema.
 
-O projeto é divido em duas vertentes, a parte embarcada foi desenvolvida em bare metal com microcontroladores SMT32F103C8T6, comunicação a distância com módulos LORA, monitoramento com tags e leitores RFIDs e comunicação web com ESP01. A parte web.....
+O projeto é divido em duas vertentes, a parte embarcada foi desenvolvida em bare metal com microcontroladores SMT32F103C8T6, comunicação a distância com módulos LORA, monitoramento com tags e leitores RFIDs e comunicação web com ESP01. A parte web foi desenvolvida com o back end em node.js + express.js, o front end foi em vue.js e o banco de dados em postgres. 
 
 O projeto foi desenvolvido na cadeira de Engenharia de Software para nosso cliente Abdul, gerente do almoxarifado de eletrônicos da Universidade Federal do Ceará campus Quixadá.
 
